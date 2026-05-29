@@ -8,4 +8,4 @@ This mini project combines programming fundamentals with generative art by creat
 Interested to explore more?: [Click Here](https://www.myartbroker.com/artist-damien-hirst/articles/ultimate-guide-damien-hirst-facts)
 
 External Module used:
-[colorgram](https://pypi.org/project/colorgram.py)
+[colorgram](https://pypi.org/project/colorgram.py), a Python module for extracting colors from images.
