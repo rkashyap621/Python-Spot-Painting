@@ -31,6 +31,5 @@ def spot_paint(file_name, num_colors, num_spots, num_lines, spot_size,spot_dist)
         for j in range(num_spots):
             bob.dot(spot_size,random.choice(colors))
             bob.forward(spot_dist)
-
         bob.setpos(current_pos[0],current_pos[1]+spot_dist)
         current_pos = bob.pos()
